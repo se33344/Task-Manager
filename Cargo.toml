@@ -1,0 +1,8 @@
+[package]
+name = "manager"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+cursive = "0.21.0"
+sysinfo = "0.33.1"
