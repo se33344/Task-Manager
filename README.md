@@ -21,3 +21,7 @@ To get started with the Task Manager in Rust, follow these steps:
 
    For Windows check the rust website
 2. Go download the release
+
+
+> [!CAUTION]
+> This is not as advanced as the Windows Task Manager, it only views tasks and ends tasks!
